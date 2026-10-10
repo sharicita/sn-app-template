@@ -1,0 +1,8 @@
+{
+    "scope": "x_starter",
+    "scopeId": "5979dfde52d156be67508225e9507f27",
+    "name": "Starter App",
+    "tsconfigPath": "./src/server/tsconfig.json",
+    "packageSourceCodeOnInstance": false,
+    "description": "A starter ServiceNow scoped app: replace this with a one-line description of what your app does."
+}

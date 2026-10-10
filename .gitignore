@@ -1,0 +1,21 @@
+.DS_Store
+.now/
+dist/
+node_modules/
+target/
+*.tsbuildinfo
+.jest_cache
+.test-build/
+
+# Instance-specific install profiles (<package name>.local.json) and per-profile build folders (never commit)
+*.local.json
+.deploy/
+
+# local tool folders
+.claude/
+.vscode/
+.idea/
+
+# STARTER TEMPLATE ONLY: record keys are generated on the first build. Each app needs its own, so the
+# template doesn't ship any. "npm run new-app" removes these two lines; commit keys.ts in your app.
+src/fluent/generated/
